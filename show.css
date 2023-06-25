@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, html {
+			background-color:#000000;
+			margin-bottom:0px;
+			}
+			
+
+
+
+#personal  {
+
+               height:200px;
+               width:1020px;
+               margin:20px 0px;
+               margin-top:15px;
+	       border: thin solid #2b2b2b;
+}
+
+#personal p {
+
+         
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:11px;
+						color: #bbbbbb;
+						width:720px;
+						margin-right: 40px;
+						float:right;
+						}
+
+#personal img {
+
+   width:650px;
+   height:100x;
+   border: thin solid #6e6e6e;
+   margin-top:15px;
+   margin-left:15px;
+}
+
+#personal1  {
+
+               height:200px;
+               width:1020px;
+               margin:20px 0px;
+               border: thin solid #2b2b2b;
+}
+
+#personal1 p {
+
+         
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:11px;
+						color: #bbbbbb;
+						width:720px;
+						margin-right: 40px;
+						float:right;
+						}
+
+#personal1 img {
+
+   width:650px;
+   height:150px;
+   border: thin solid #6e6e6e;
+   margin-top:15px;
+   margin-left:15px;
+}
+
+#personal2  {
+
+               height:200px;
+               width:1020px;
+               margin:20px 0px;
+	       border: thin solid #2b2b2b;
+}
+
+#personal2 p {
+
+         
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:11px;
+						color: #bbbbbb;
+						width:720px;
+						margin-right: 40px;
+						float:right;
+						}
+
+#personal2 img {
+
+   width:650px;
+   height:150px;
+   border: thin solid #6e6e6e;
+   margin-top:15px;
+   margin-left:15px;
+}
+
+
+#personal3  {
+
+               height:200px;
+               width:1020px;
+               margin:20px 0px;
+	       border: thin solid #2b2b2b;
+}
+
+#personal3 p {
+
+         
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:11px;
+						color: #bbbbbb;
+						width:720px;
+						margin-right: 40px;
+						float:right;
+						}
+
+#personal3 img {
+
+   width:650px;
+   height:150px;
+   border: thin solid #6e6e6e;
+   margin-top:15px;
+   margin-left:15px;
+}
+
+
+#personal4  {
+
+               height:200px;
+               width:1020px;
+               margin:20px 0px;
+	       border: thin solid #2b2b2b;
+}
+
+#personal4 p {
+
+         
+						font-family:Arial, Helvetica, sans-serif;
+						font-size:11px;
+						color: #bbbbbb;
+						width:720px;
+						margin-right: 40px;
+						float:right;
+						}
+
+#personal4 img {
+
+   width:650px;
+   height:150px;
+   border: thin solid #6e6e6e;
+   margin-top:15px;
+   margin-left:15px;
+}
+
